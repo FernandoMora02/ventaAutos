@@ -1,0 +1,59 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  overflow-x: hidden;
+}
+h1{
+  font-family: 'Dancing Script', cursive;
+}
+
+.carousel-item img{
+  width: 100%;
+  height: 80vh;
+}
+
+.card-body img{
+min-width: 50%;
+max-height: 200px;
+}
+
+nav div a  img{
+
+  width: 250px;
+  height: 40px;
+}
+
+
+.carousel-inner img{
+  width: 100%;
+  height: 100%;
+}
+
+.cinzel{
+  font-family: 'cinzel';
+  font-size: 25px;
+}
+.pt-3-half { padding-top: 1.4rem; }
+
+
+.st-log{
+  text-decoration: none;
+}
+
+.card:hover {
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2),0 2px 3px 0 rgba(0, 0, 0, 0.19);
+}
+
+#social{
+  letter-spacing: 4px;
+}
+#social i:hover{
+ cursor:pointer;
+ 
+}
+
+
+
